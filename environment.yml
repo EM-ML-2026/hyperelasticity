@@ -1,0 +1,16 @@
+name: ml-course-day1
+channels:
+  - conda-forge
+  - defaults
+  - pytorch
+dependencies:
+  - python=3.9.17
+  - jupyter=1.0.0
+  - jupyterlab=3.4.4
+  - matplotlib=3.5.2
+  - numpy=1.24.2
+  - pytorch=2.0.1
+  - cpuonly
+  - scipy=1.9.3
+  - seaborn=0.12.2
+  - ipython=8.15.0
